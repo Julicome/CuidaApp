@@ -1,0 +1,175 @@
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\Site.csproj.AssemblyReference.cache
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\Site.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\Site.AssemblyInfoInputs.cache
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\Site.AssemblyInfo.cs
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\Site.csproj.CoreCompileInputs.cache
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\Site.MvcApplicationPartsAssemblyInfo.cache
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\Site.RazorAssemblyInfo.cache
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\Site.RazorAssemblyInfo.cs
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Site.exe
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Site.deps.json
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Site.runtimeconfig.json
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Site.runtimeconfig.dev.json
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Site.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Site.pdb
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Site.Views.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Site.Views.pdb
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Aplication.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Domain.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Aplication.pdb
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\staticwebassets\Site.StaticWebAssets.Manifest.cache
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\Site.TagHelpers.input.cache
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\Site.TagHelpers.output.cache
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\Site.RazorCoreGenerate.cache
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\Site.RazorTargetAssemblyInfo.cache
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\Site.RazorTargetAssemblyInfo.cs
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\Site.Views.pdb
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\Site.csproj.CopyComplete
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\Site.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\Site.pdb
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\obj\Debug\netcoreapp3.1\Site.genruntimeconfig.cache
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ProjectGitHub\Backend\Microsoft\FormEmployee\Site\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\appsettings.json
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Site.exe
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Site.deps.json
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Site.runtimeconfig.json
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Site.runtimeconfig.dev.json
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Site.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Site.pdb
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Site.Views.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Site.Views.pdb
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Aplication.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Domain.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Aplication.pdb
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\PROYECTO POLII\mvcseedproject-main\Site\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Site.csproj.AssemblyReference.cache
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Site.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Site.AssemblyInfoInputs.cache
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Site.AssemblyInfo.cs
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Site.csproj.CoreCompileInputs.cache
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Site.MvcApplicationPartsAssemblyInfo.cache
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Site.RazorAssemblyInfo.cache
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Site.RazorAssemblyInfo.cs
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\staticwebassets\Site.StaticWebAssets.Manifest.cache
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\staticwebassets\Site.StaticWebAssets.xml
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\scopedcss\bundle\Site.styles.css
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Site.TagHelpers.input.cache
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Site.TagHelpers.output.cache
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Site.RazorCoreGenerate.cache
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Site.RazorTargetAssemblyInfo.cache
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Site.RazorTargetAssemblyInfo.cs
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Site.Views.pdb
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Site.csproj.CopyComplete
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Site.dll
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Site.pdb
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Site.genruntimeconfig.cache
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Razor\Views\Home\Visitas_Al_Medico.cshtml.g.cs
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Razor\Views\Home\Lista_Citas.cshtml.g.cs
+C:\PROYECTO POLII\mvcseedproject-main\Site\obj\Debug\netcoreapp3.1\Razor\Views\Home\Inicio.cshtml.g.cs

@@ -1,0 +1,103 @@
+﻿@model Response<ClientDto>
+@{ ViewData["Title"] = "Home Page";
+    ViewData["FechaNacimiento"] = Model.Data.FechaNacimiento.Value.ToShortDateString(); }
+
+<div class="text-left">
+    <div class="text-center">
+        <h6 class="display-4">Mi perfil</h6>
+    </div>
+    @if (ViewData["mensaje"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            @ViewData["mensaje"]
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+    }
+
+    <form method="post" action="/Home/GuardarPerfil">
+        <div class="form-row">
+            <div class="form-group col-md-6">
+                <label for="inputEmail4">Nombres completos:</label>
+                <input type="text" class="form-control" asp-for="@Model.Data.NombresCliente" name="NombresCliente" id="NombresCliente" value="@Model.Data.NombresCliente">
+            </div>
+            <div class="form-group col-md-6">
+                <label for="inputEmail4">Tipo de sangre:</label>
+                <select class="custom-select" asp-for="@Model.Data.IdTipoSangre" name="IdTipoSangre" id="IdTipoSangre">
+                    <option value="1">O+</option>
+                    <option value="2">O-</option>
+                    <option value="3">A+</option>
+                    <option value="4">A-</option>
+                    <option value="5">B+</option>
+                    <option value="6">B-</option>
+                    <option value="7">AB+</option>
+                    <option value="8">AB-</option>
+                </select>
+            </div>
+
+            <div class="form-group col-md-6">
+                <label for="inputEmail4">Tipo de documento:</label>
+                <select class="custom-select" asp-for="@Model.Data.IdTipoDocumento" name="IdTipoDocumento" id="IdTipoDocumento" value="@Model.Data.IdTipoDocumento">
+                    <option value="1">Cedula de ciudadania</option>
+                    <option value="2">Tarjeta de identidad</option>
+                    <option value="3">Registro civil</option>
+                </select>
+            </div>
+            <div class="form-group col-md-6">
+                <label for="inputPassword4">Estatura:</label>
+                <input type="text" class="form-control" asp-for="@Model.Data.Estatura" name="Estatura" id="Estatura" value="@Model.Data.Estatura">
+            </div>
+            <div class="form-group col-md-6">
+                <label for="inputEmail4">Numero de documento:</label>
+                <input type="text" class="form-control" asp-for="@Model.Data.NumeroDocumento" name="NumeroDocumento" id="NumeroDocumento" value="@Model.Data.NumeroDocumento">
+            </div>
+            <div class="form-group col-md-6">
+                <label for="inputEmail4">Genero:</label>
+                <select class="custom-select" asp-for="@Model.Data.IdGenero" name="IdGenero" id="IdGenero">
+                    <option value="1">Femenino</option>
+                    <option value="2">Masculino</option>
+                    <option value="3">Otro</option>
+                </select>
+            </div>
+            <div class="form-group col-md-6">
+                <label for="inputEmail4">Correo electronico:</label>
+                <input type="email" class="form-control" asp-for="@Model.Data.CorreoElectronico" name="CorreoElectronico" id="CorreoElectronico" value="@Model.Data.CorreoElectronico">
+            </div>
+            <div class="form-group col-md-6">
+                <label for="inputPassword4">Peso (KG):</label>
+                <input type="text" class="form-control" asp-for="@Model.Data.Peso" name="Peso" id="Peso" value="@Model.Data.Peso">
+            </div>
+            <div class="form-group col-md-6">
+                <label for="inputEmail4">Dirección:</label>
+                <input type="text" class="form-control" asp-for="@Model.Data.Direccion" name="Direccion" id="Direccion" value="@Model.Data.Direccion">
+            </div>
+            <div class="form-group col-md-6">
+                <label for="inputPassword4">Edad:</label>
+                <input type="text" class="form-control" asp-for="@Model.Data.Edad" name="Edad" id="Edad" value="@Model.Data.Edad">
+            </div>
+            <div class="form-group col-md-6">
+                <label for="inputEmail4">Telefono:</label>
+                <input type="text" class="form-control" asp-for="@Model.Data.Telefono" name="Telefono" id="Telefono" value="@Model.Data.Telefono">
+            </div>
+            <div class="form-group col-md-6">
+                <label for="inputPassword4">Nombre EPS:</label>
+                <input type="text" class="form-control" asp-for="@Model.Data.NombreEps" name="NombreEps" id="NombreEps" value="@Model.Data.NombreEps">
+            </div>
+            <div class="form-group col-md-6">
+                <label for="inputEmail4">Fecha de nacimiento:</label>
+                <input type="datetime" class="form-control" asp-for="@Model.Data.FechaNacimiento" id="FechaNacimiento" name="FechaNacimiento" value="@Model.Data.FechaNacimiento.Value.ToShortDateString()">
+            </div>
+            <div class="form-group col-md-6">
+                <label for="inputPassword4">Regimen EPS:</label>
+                <input type="text" class="form-control" asp-for="@Model.Data.RegimenEps" name="RegimenEps" id="RegimenEps" value="@Model.Data.RegimenEps">
+            </div>
+
+        </div>
+        <input type="hidden" asp-for="@Model.Data.Id" name="Id" id="Id" value="@Model.Data.Id" />
+        <div class="text-center">
+            <button type="submit" class="btn btn-primary">Guardar</button>
+        </div>
+    </form>
+
+</div>

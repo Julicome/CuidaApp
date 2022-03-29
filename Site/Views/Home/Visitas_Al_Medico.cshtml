@@ -1,0 +1,39 @@
+﻿@model Response<Visitas_Al_Medico_Dto>
+@{ ViewData["Title"] = "Visitas al medico"; }
+<h2>@ViewData["Title"]</h2>
+
+@if (ViewData["mensaje"] != null)
+{
+<div class="alert alert-success alert-dismissible fade show" role="alert">
+    @ViewData["mensaje"]
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+    </button>
+</div>}
+
+<form method="post" action="/Home/CrearCita">
+    <div class="mb-3">
+        <label for="exampleFormControlInput1" class="form-label">Nombre cita:</label>
+        <input type="text" class="form-control" asp-for="@Model.Data.NombreCita" name="NombreCita" id="NombresCliente" value="@Model.Data.NombreCita">
+    </div>
+    <div class="mb-3">
+        <label for="exampleFormControlInput1" class="form-label">Nombre doctor:</label>
+        <input type="text" class="form-control" asp-for="@Model.Data.Doctor" name="Doctor" id="Doctor" value="@Model.Data.Doctor">
+    </div>
+    <div class="mb-3">
+        <label for="exampleFormControlInput1" class="form-label">Nombre IPS:</label>
+        <input type="text" class="form-control" asp-for="@Model.Data.IPS" name="IPS" id="IPS" value="@Model.Data.IPS">
+    </div>
+    <div class="mb-3">
+        <label for="exampleFormControlInput1" class="form-label">Fecha cita:</label>
+        <input type="date" class="form-control" asp-for="@Model.Data.FechaCita" name="FechaCita" id="FechaCita" value="@Model.Data.FechaCita">
+    </div>
+    <div class="mb-3">
+        <label for="exampleFormControlTextarea1" class="form-label">Observación de la cita medica</label>
+        <textarea class="form-control" rows="3" asp-for="@Model.Data.Observacion" name="Observacion" id="Observacion" value="@Model.Data.Observacion"></textarea>
+    </div>
+    <input type="hidden" asp-for="@Model.Data.IdCliente" name="IdCliente" id="IdCliente" value="1" />
+    <div class="text-center">
+        <button type="submit" class="btn btn-primary">Agregar</button>
+    </div>
+</form>
